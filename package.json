@@ -1,0 +1,24 @@
+{
+  "name": "mq-analyzer",
+  "version": "0.0.1",
+  "description": "A Media Query Analyzer",
+  "main": "index.html",
+  "dependencies": {
+    "grunt-cli": "~0.1.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/patricksimpson/MQ-Analyzer"
+  },
+  "keywords": [
+    "Media",
+    "Query",
+    "Analyzer"
+  ],
+  "author": "Patrick Simpson",
+  "license": "none"
+}
